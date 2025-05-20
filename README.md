@@ -1,4 +1,4 @@
-# Data and Code from a Somatic memory of exogenous brassinosteroids alters histone expression and tempers heat responses
+# Data and Code from "Somatic memory of exogenous brassinosteroids alters histone expression and tempers heat responses"
 
 This repository contains data and code supporting the findings of the study 
 on the impacts of seed applied brassinosteroids on heat responses in spring wheat reproductive development.
